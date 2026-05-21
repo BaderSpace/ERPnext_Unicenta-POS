@@ -46,8 +46,8 @@ The tool connects directly to Unicenta's MySQL/MariaDB database and maps tables 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/Unicenta_ERPnext.git
-cd Unicenta_ERPnext
+git clone https://github.com/BaderSpace/ERPnext_Unicenta-POS.git
+cd ERPnext_Unicenta-POS
 
 # Install dependencies
 pip install -r requirements.txt
